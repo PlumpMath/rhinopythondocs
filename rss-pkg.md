@@ -3,6 +3,7 @@
 Rhino specific functions are in a package named Rhino. All functions are defined in one of the following modules.  
  
 | Module | Description |
+|--------|-------------|
 | application | Functions related to the Rhino application. |
 | block | Functions related to the block objects. |
 | curve | Functions related to curve objects. |
