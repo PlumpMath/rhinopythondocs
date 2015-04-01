@@ -8,14 +8,14 @@ rhinoscriptsyntax.AddAlias ( alias, macro )
 rhinoscript.application.AddAlias ( alias, macro )
 ```
 
-***Parameters***
-alias Required.  String.  The name of the new command alias. The name cannot match command names or existing aliases.
-macro Required.  String.  The macro to run when the alias is executed.
+***Parameters***  
+___alias___ Required.  String.  The name of the new command alias. The name cannot match command names or existing aliases.  
+___macro___ Required.  String.  The macro to run when the alias is executed.  
 
-***Returns***
-Boolean True or False indicating success or failure.
+***Returns***  
+Boolean True or False indicating success or failure.  
 
-***Example***
+***Example***  
 ```python
 import rhinoscriptsyntax as rs
 rs.AddAlias("OriginLine", "!_Line 0,0,0")
