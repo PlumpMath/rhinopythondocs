@@ -2,5 +2,6 @@
   * [Getting Started](getting-started.md)  
 * [rhinoscriptsynax package](rss-pkg.md)  
   * [application](application.md)  
+    * [AddAlias](AddAlias.md)  
   * [block](block.md)  
   * [curve](curve.md)  
