@@ -1,3 +1,3 @@
-[Intro](README.md)  
-[Getting Started](getting-started.md)  
+* [Intro](README.md)  
+* [Getting Started](getting-started.md)  
 
