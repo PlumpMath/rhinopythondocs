@@ -1,8 +1,9 @@
-## Curve Methods
+### Curve Methods
 
 The following methods are available for creating, querying or manipulating curve and polycurve objects.  A polycurve is a curve that is represented by a sequence of contiguous curve segments.  Generally, polycurves are created by using the Join command.  
  
 | Method | Description |
+|--------|-------------|
 | AddArc | Adds an arc curve. |
 | AddArc3Pt | Add a 3 point arc curve. |
 | AddCircle | Adds a circle curve. |

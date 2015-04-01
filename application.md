@@ -1,4 +1,4 @@
-## Application Methods
+### Application Methods
 
 The following methods are available for querying or manipulating the Rhino application.  
  

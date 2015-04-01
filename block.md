@@ -1,8 +1,9 @@
-## Block Methods
+### Block Methods
 
 A block is a collection of objects linked together to form a single entity. Using blocks lets you keep model size smaller by using block instances instead of copying identical geometry.  
  
 | Method | Description |
+|--------|-------------|
 | BlockContainerCount | Returns the number of block definitions that contain a specified block as a nested block. |
 | BlockContainers | Returns the names of block definitions that contain a specified block as a nested block. |
 | BlockCount | Counts the number of block definitions in the document. |
