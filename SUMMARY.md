@@ -7,6 +7,7 @@
   * [curve](curve.md)  
   * [linetype](linetype.md)  
     * [IsLinetype](linetype/IsLinetype.md)  
+    * [IsLinetype1](linetype/IsLinetype1.md)  
     * [IsLinetype2](linetype/IsLinetype2.md)  
     * [IsLinetype3](https://github.com/acormier/rhinopythondocs/blob/59b192571e370df75b0c258d17593341fd85cca3/linetype/linetype.py#L15-L40)  
     * [IsLinetypeReference](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L21-L27)  
