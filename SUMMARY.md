@@ -6,7 +6,7 @@
   * [block](block.md)  
   * [curve](curve.md)  
   * [linetype](linetype.md)  
-    * [IsLinetype](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L13-L18)  
+    * [IsLinetype](linetype/linetype.md#L12-L45)  
     * [IsLinetypeReference](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L21-L27)  
     * [LinetypeCount](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L30-L32)  
     * [LinetypeNames](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L35-L48)  
