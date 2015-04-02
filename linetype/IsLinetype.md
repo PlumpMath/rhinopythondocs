@@ -23,6 +23,6 @@ else: print "The linetype does not exist"
 ```
 
 ***Also See***
-  - [IsLinetypeReference](./IsLinetypeReference.md)  
+  - [IsLinetypeReference](./IsLinetypeReference.html)  
 
 [view code on github](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L13-L18)  

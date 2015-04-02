@@ -24,6 +24,6 @@ if names:
 ```
 
 ***Also See***
-  - [LinetypeCount](./LinetypeCount.md)  
+  - [LinetypeCount](./LinetypeCount.html)  
 
 [view code on github](https://github.com/acormier/rhinopythondocs/blob/233504a3f4ddb4233db057d15459948256e6631c/linetype/linetype.py#L35-L48)  

@@ -7,6 +7,6 @@
   * [curve](curve.md)  
   * [linetype](linetype.md)  
     * [IsLinetype](linetype/IsLinetype.md)  
-    * [IsLinetypeReference](linetype/IsLineReference.md)  
-    * [LinetypeCount](linetype/LinetypeCount)  
+    * [IsLinetypeReference](linetype/IsLinetypeReference.md)  
+    * [LinetypeCount](linetype/LinetypeCount.md)  
     * [LinetypeNames](linetype/LinetypeNames.md)  
