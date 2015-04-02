@@ -11,8 +11,33 @@ def __getlinetype(name_or_id):
 
 
 def IsLinetype(name_or_id):
-    """Verifies the existance of a linetype in the document
-    Returns: True or False
+    """
+    ### IsLinetype
+
+    Verifies the existence of a linetype in the document.  
+
+    ***Syntax***
+    ```python
+    rhinoscriptsyntax.IsLinetype (name_or_id)
+    rhinoscript.linetype.IsLinetype (name_or_id)
+    ```
+
+    ***Parameters***
+    *name_or_id* Required.  String or Guid.  The name or identifier of an existing linetype.  
+
+    ***Returns***
+    Boolean True or False indicating success or failure.
+
+    ***Example***
+    ```python
+    import rhinoscriptsyntax as rs
+    name = rs.GetString("Linetype name")
+    if rs.IsLinetype(name): print "The linetype exists."
+    else: print "The linetype does not exist"
+    ```
+
+    ***Also See***
+      - IsLinetypeReference
     """
     lt = __getlinetype(name_or_id)
     return lt is not None
