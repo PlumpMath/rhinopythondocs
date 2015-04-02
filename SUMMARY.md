@@ -9,3 +9,4 @@
     * [IsLinetypeReference](linetype/IsLinetypeReference.md)  
     * [LinetypeCount](linetype/LinetypeCount.md)  
     * [LinetypeNames](linetype/LinetypeNames.md)  
+* [Author] (AUTHORS.md)  
