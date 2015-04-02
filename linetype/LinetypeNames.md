@@ -5,7 +5,6 @@ Returns the names of all linetypes in the document.
 ***Syntax***
 ```python
 rhinoscriptsyntax.LinetypeNames(sort=False)
-rhinoscript.linetype.LinetypeNames(sort=False)
 ```
 
 ***Parameters***

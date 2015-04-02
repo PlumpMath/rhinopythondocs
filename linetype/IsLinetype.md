@@ -5,7 +5,6 @@ Verifies the existence of a linetype in the document.
 ***Syntax***
 ```python
 rhinoscriptsyntax.IsLinetype (name_or_id)
-rhinoscript.linetype.IsLinetype (name_or_id)
 ```
 
 ***Parameters***

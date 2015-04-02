@@ -5,7 +5,6 @@ Returns the number of linetypes in the document.
 ***Syntax***
 ```python
 rhinoscriptsyntax.LinetypeCount()
-rhinoscript.linetype.LinetypCount()
 ```
 
 ***Parameters***

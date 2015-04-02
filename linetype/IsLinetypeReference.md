@@ -5,7 +5,6 @@ Verifies that an existing linetype is from a reference file.
 ***Syntax***
 ```python
 rhinoscriptsyntax.IsLinetypeReference (name_or_id)
-rhinoscript.linetype.IsLinetypeReference (name_or_id)
 ```
 
 ***Parameters***
