@@ -5,3 +5,8 @@
     * [AddAlias](application/AddAlias.md)  
   * [block](block.md)  
   * [curve](curve.md)  
+  * [linetype](linetype.md)  
+    * [IsLinetype]()  
+    * [IsLinetypeReference]()  
+    * [LinetypeCount]()  
+    * [LinetypeNames]()  
