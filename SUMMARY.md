@@ -10,5 +10,5 @@
     * [LinetypeCount](linetype/LinetypeCount.md)  
     * [LinetypeNames](linetype/LinetypeNames.md)  
 * [Authors](AUTHORS.md)  
-* [Appendix]
+* Appendix
   * [Diff report between RhinoScript and rhinoscriptsyntax](diff.md)  

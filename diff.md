@@ -3,7 +3,7 @@
 
 ### total missing methods (445)  
 
-## application (30)
+#### application (30)
   - 30 missing in application.py
     - AddStartupScript
     - AppearanceDisplay
@@ -41,7 +41,7 @@
     + StatusBarProgressMeterUpdate
     + StatusBarProgressMeterHide
 
-## curve (25)
+#### curve (25)
   - 25 missing in curve.py
     - AddCirclePtTanPt
     - AddInterpCurveEx
@@ -72,7 +72,7 @@
     + AddRectangle
     + LineFitFromPoints
 
-## document (13)
+#### document (13)
   - 13 missing in document.py
     - DocumentURL
     - RenderMeshDensity
@@ -88,7 +88,7 @@
     - UnitDistanceDisplayMode
     - DocumentInfo
 
-## geometry (112)
+#### geometry (112)
   - 112 missing in geometry.py
     - FlipClippingPlane
     - ClippingPlaneDefinition
@@ -206,13 +206,13 @@
     + Area
     + ExplodeText
 
-## group (3)
+#### group (3)
   - 3 missing in group.py
     - RemoveObjectFromTopGroup
     - GetGroupUserText
     - SetGroupUserText
 
-## userinterface (14)
+#### userinterface (14)
   - 14 missing in userinterface.py
     - GetAngleEx
     - HtmlBox
@@ -233,7 +233,7 @@
     + CustomGeometryFilter
     + GetPointDynamicDrawFunc
 
-## layer (6)
+#### layer (6)
   - 6 missing in layer.py
     - LayerMode
     - LayerMaterialId
@@ -242,7 +242,7 @@
     - GetLayerUserText
     - SetLayerUserText
 
-## material (10)
+#### material (10)
   - 10 missing in material.py
     - ObjectsByMaterialIndex
     - ObjectsByMaterialSource
@@ -255,7 +255,7 @@
     - IsMaterial
     - MaterialIndices
 
-## object (53)
+#### object (53)
   - 53 missing in object.py
     - AddObjectMesh
     - ObjectNames
@@ -311,7 +311,7 @@
     - ObjectSerialNumber
     - ObjectDataCRC
 
-## selection (7)
+#### selection (7)
   - 7 missing in selection.py
     - ReferenceObjects
     - ObjectsByURL
@@ -326,7 +326,7 @@
     + GetObjects
     + GetObjectsEx
 
-## surface (42)
+#### surface (42)
   - 42 missing in surface.py
     - IsPolySurface
     - IsPolySurfaceClosed
@@ -376,7 +376,7 @@
     + IsPolysurface
     + IsPolysurfaceClosed
 
-## toolbar (13)
+#### toolbar (13)
   - 13 missing in toolbar.py
     - ToolbarCollectionName
     - ToolbarCollectionAlias
@@ -399,7 +399,7 @@
     + ToolbarCount
     + ToolbarNames
 
-## userdata (14)
+#### userdata (14)
   - 14 missing in userdata.py
     - GetObjectData
     - SetObjectData
@@ -416,7 +416,7 @@
     - SetRuntimeData
     - RuntimeDataCount
 
-## utility (29)
+#### utility (29)
   - 29 missing in utility.py
     - Version
     - SaveSettings
@@ -455,7 +455,7 @@
     + Distance
     + Polar
 
-## view (13)
+#### view (13)
   - 13 missing in view.py
     - SynchronizeCPlanes
     - DetailNames
@@ -476,7 +476,7 @@
     + DetailLock
     + DetailScale
 
-## block (3)
+#### block (3)
   - 3 missing in block.py
     - BlockURL
     - BlockURLTag
@@ -484,7 +484,7 @@
   + 1 extras in block.py
     + InsertBlock2
 
-## dimension (8)
+#### dimension (8)
   - 8 missing in dimension.py
     - DimScale
     - DimStyleScale
@@ -495,7 +495,7 @@
     - ParentDimStyle
     - DimStyleFieldOverride
 
-## mesh (24)
+#### mesh (24)
   - 24 missing in mesh.py
     - MeshContourPoints
     - MeshTextureCoordinates
@@ -522,7 +522,7 @@
     - MeshPatch
     - ExtractMeshHelper
 
-## math (24)
+#### math (24)
   - 24 missing in math.py
     - ACos
     - ACosH
@@ -549,7 +549,7 @@
     - TanH
     - Rnd
 
-## hatch (2)
+#### hatch (2)
   - 2 missing in hatch.py
     - DuplicateHatchBorders
     - HatchArea
